@@ -1,5 +1,4 @@
 @startuml
-c:\Code\plantuml-icons\service-icons>java -jar plantuml-1.2022.3.jar -encodesprite 16 smart_card.png
 sprite $smart_card [48x48/16] {
 000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000
