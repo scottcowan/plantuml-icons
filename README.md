@@ -4,6 +4,8 @@
 |-------|--------|-------|-----|
 api |API |![image-api](api.png) |api.puml |
 dynamics_crm |DYNAMICS_CRM |![image-dynamics_crm](dynamics_crm.png) |dynamics_crm.puml |
+nfc_card |NFC_CARD |![image-nfc_card](nfc_card.png) |nfc_card.puml |
+nfc_phone | NFC_PHONE |![image-nfc_phone](nfc_phone.png) |nfc_phone.puml |
 paper_form |PAPER_FORM |![image-paper_form](paper_form.png) |paper_form.puml |
 power_bi |POWER_BI |![image-powerBI](power_bi.png) |power_bi.puml |
 sage |SAGE |![image-sage](sage.png) |sage.puml |
